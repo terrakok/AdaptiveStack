@@ -1,4 +1,4 @@
-package io.github.terrakok.adaptivestack
+package com.github.terrakok.adaptivestack
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.BoxWithConstraints

@@ -6,8 +6,8 @@ plugins {
     alias(libs.plugins.compose)
 }
 
-group = "io.github.terrakok.adaptivestack"
-version = "1.0"
+group = "com.github.terrakok"
+version = "1.0.0"
 
 kotlin {
     jvmToolchain(11)
@@ -32,7 +32,7 @@ kotlin {
 }
 
 android {
-    namespace = "io.github.terrakok.adaptivestack"
+    namespace = "com.github.terrakok"
     compileSdk = 35
 
     defaultConfig {
